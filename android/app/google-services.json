@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227464493906",
+    "firebase_url": "https://ainaf-brew-crew.firebaseio.com",
+    "project_id": "ainaf-brew-crew",
+    "storage_bucket": "ainaf-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227464493906:android:a4d3e6f7110198f031988b",
+        "android_client_info": {
+          "package_name": "com.ainafarisha.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227464493906-5399rn96jk2iqda7te1pp6a5214r772u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3d8WmuJeB6cc8mWL2DPM1I2Zb5Qny48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227464493906-5399rn96jk2iqda7te1pp6a5214r772u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
